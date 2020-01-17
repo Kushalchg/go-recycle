@@ -1,2 +1,2 @@
 # go-recycle
-@copyright
+you can use  for your project for free
