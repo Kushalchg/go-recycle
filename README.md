@@ -1,1 +1,2 @@
 # go-recycle
+@copyright
